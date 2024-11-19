@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/expenseracker/static/css/main.1788a1bc.css",
+    "main.js": "/expenseracker/static/js/main.893804a6.js",
+    "static/js/453.b5f05732.chunk.js": "/expenseracker/static/js/453.b5f05732.chunk.js",
+    "index.html": "/expenseracker/index.html",
+    "main.1788a1bc.css.map": "/expenseracker/static/css/main.1788a1bc.css.map",
+    "main.893804a6.js.map": "/expenseracker/static/js/main.893804a6.js.map",
+    "453.b5f05732.chunk.js.map": "/expenseracker/static/js/453.b5f05732.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1788a1bc.css",
+    "static/js/main.893804a6.js"
+  ]
+}
